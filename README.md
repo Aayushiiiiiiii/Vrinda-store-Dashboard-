@@ -1,5 +1,6 @@
 # 📊 Vrinda Store Annual Report 2023 – Excel Dashboard Project
 📌 Project Overview
+
 Built an interactive Excel dashboard to analyze Vrinda Store’s 2023 sales performance. The project includes pivot tables, slicers, and visual insights on gender-based sales, order status, top states, and customer demographics.In this project  an interactive Sales Analysis Dashboard is created in Microsoft Excel to analyze Vrinda Store’s annual sales performance for 2023.
 
 The dashboard provides insights into:
